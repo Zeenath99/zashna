@@ -1,5 +1,4 @@
 # zashna
 This is my first repo<br>
-CEO - Zeenath
+CEO - Zeenath  <br>
 clothing brand
-quality
